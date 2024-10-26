@@ -1,4 +1,4 @@
-mtcars {datasets}	R Documentation/
-Motor Trend Car Road Tests/
-Source:
-Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391–411.
+mtcars {datasets}	R Documentatio < br / >
+Motor Trend Car Road Test < br / >
+Source: < br / >
+Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391–411.< br / >
